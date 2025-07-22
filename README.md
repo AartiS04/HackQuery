@@ -1,5 +1,4 @@
-# HackQuery
-# SQL Injection Project
+# HackQuery: A SQL Injection Project
 
 ## Overview
 
